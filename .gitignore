@@ -135,4 +135,7 @@ dmypy.json
 *.png
 *.jpg
 *.bmp
+*.onnx
+*.trt
+
 

@@ -18,9 +18,9 @@
 from tensorflow.python.compiler.tensorrt import trt_convert as tf_trt
 from tensorflow.python.saved_model import tag_constants
 import tensorflow as tf
-import tensorrt as trt
+# import tensorrt as trt
 
-import numpy as np
+# import numpy as np
 
 precision_dict = {
     "FP32": tf_trt.TrtPrecisionMode.FP32,
