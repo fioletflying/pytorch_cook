@@ -37,6 +37,7 @@ MANIFEST
 *.spec
 *.onnx
 *.trt
+*.pth
 
 # Installer logs
 pip-log.txt
